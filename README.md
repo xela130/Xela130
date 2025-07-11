@@ -1,4 +1,7 @@
 ## Hi there 👋
+Alex Nina Copatiti
+Ing. Informatica.
+Todo se puede en esta vida.
 
 <!--
 **xela130/Xela130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
